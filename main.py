@@ -13,7 +13,7 @@ def print_hi(name):
 
 
 def my_function(a,b):
-     return a + b
+     return a - b
 
 # Comment
 # Press the green button in the gutter to run the script.
